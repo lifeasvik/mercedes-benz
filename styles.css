@@ -1,0 +1,36 @@
+/* WIREFRAME CSS */
+
+.grey {
+    background-color: grey;
+    height: 200px;
+}
+
+.darkgrey {
+    background-color: darkgrey;
+    height: 200px;
+}
+
+/* MENU BAR CSS */
+
+.menubarholder {
+    width: 100%;
+}
+
+.menubar {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menubar ul {
+    list-style-type: none;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.menubar li {
+    padding-left: 10px;
+}

@@ -1,0 +1,24 @@
+
+        <!-- Menu Bar -->
+
+        <div>
+            <div width="100%" class="darkgrey">Menu Bar</div>
+        </div>
+
+        <!-- Splash Section -->
+
+        <div>
+            <div width="100%" class="grey">Splash Section</div>
+        </div>
+
+        <!-- Option Boxes -->
+
+        <div>
+            <div width="100%" class="darkgrey">Option Boxes</div>
+        </div>
+
+        <!-- Closing Section -->
+
+        <div>
+            <div width="100%" class="grey">Closing Section</div>
+        </div>
