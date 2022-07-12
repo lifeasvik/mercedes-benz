@@ -14,10 +14,13 @@
 
 .menubarholder {
     width: 100%;
+    display: flex;
+    align-items: center;
 }
 
 .menubar {
     height: 50px;
+    width: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -28,9 +31,26 @@
     padding-left: 20px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
 }
 
 .menubar li {
+    padding-left: 10px;
+}
+
+.sidemenubar{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sidemenubar ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+}
+
+.sidemenubar li {
     padding-left: 10px;
 }
